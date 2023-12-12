@@ -28,11 +28,7 @@ print(eng_kor)
 '''
 print('-' * 40)
 print(eng_kor.keys())
-<<<<<<< HEAD
-print(eng_kor.values()) # 적절한 자료형 (list 등)으로 변환해서 사용합니다.
-=======
 print(list(eng_kor.values())) # 적절한 자료형 (list 등)으로 변환해서 사용합니다.
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 
 # 사전의 반복문 처리
 # for ~ in 뒤에 사전 데이터를 적으면 key만 반복 순회합니다.
@@ -44,18 +40,9 @@ for k in eng_kor:
 del(사전이름[key])
 key를 전달하면 같이 맵핑된 value도 함께 삭제됩니다.
 '''
-<<<<<<< HEAD
-del(eng_kor['student'])
-=======
 del eng_kor['student']
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 print(eng_kor)
 
 # 빈 사전 만들기
 d = {}
 d2 = dict()
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966

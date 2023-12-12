@@ -25,7 +25,4 @@ print(students['짹짹이'])
 # in 키워드를 사용하여 key의 존재 유무를 파악할 수 있습니다.
 print('멍멍이' in students)
 print('메뚜기' not in students)
-<<<<<<< HEAD
-=======
 
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966

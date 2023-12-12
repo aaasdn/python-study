@@ -55,8 +55,3 @@ asia2 = {'singapore', 'indonesia', 'korea'}
 asia.update(asia2)
 
 print(asia)
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966

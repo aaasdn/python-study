@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 '''
 * 리스트의 탐색과 정렬
 
@@ -26,11 +23,7 @@ print(f'최저 점수는 {min(points)}점 입니다.')
 print('-' * 40)
 print(points)
 points.sort(reverse=True)
-<<<<<<< HEAD
-points.reverse() # 정렬이 아니라 단순 역순 배치
-=======
 # points.reverse() # 정렬이 아니라 단순 역순 배치
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 
 print(points)
 
@@ -43,11 +36,3 @@ if name in food_menu:
 else:
     print(f'{name}은(는) 없는 음식입니다.')
 
-<<<<<<< HEAD
-
-
-
-
-
-=======
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966

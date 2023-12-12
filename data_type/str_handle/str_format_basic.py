@@ -5,11 +5,7 @@
 문자열을 조립하는 방식입니다.
 '''
 apple = 3
-<<<<<<< HEAD
-print('사과가', apple, '개 있습니다.')
-=======
 print('사과가 ', apple, '개 있습니다.')
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 print('사과가 %d개 있습니다.' % apple)
 
 '''
@@ -21,10 +17,7 @@ day = 25
 anni = '크리스마스'
 print('%d월 %d일은 %s입니다.' % (month, day, anni))
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 '''
 * format 함수를 사용한 형식 지정 출력
 
@@ -33,11 +26,7 @@ print('%d월 %d일은 %s입니다.' % (month, day, anni))
 '''
 point = 90
 print('수학 점수: {}점'.format(point))
-<<<<<<< HEAD
-print('{2}월 {0}일은 {1}입니다.'.format(month, day, anni))
-=======
 print('{}월 {}일은 {}입니다.'.format(month, day, anni))
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 
 # 소수점 표현
 pi = 3.141592
@@ -53,7 +42,3 @@ print(f'점수는 {point + 10}점 입니다.')
 
 print(f'원주율은 {pi:0.2f} 입니다.')
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
