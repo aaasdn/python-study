@@ -23,8 +23,13 @@ tu = 1, 3, 5, 7, 9
 print(type(tu))
 
 # 튜플은 리스트와 마찬가지로 unpackiging이 가능합니다.
+<<<<<<< HEAD
 n1, n2 , n3, n4, n5 = tu
 print(n1, n2 , n3, n4, n5)
+=======
+n1, n2, n3, n4, n5 = tu
+print(n1, n2, n3, n4, n5)
+>>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 
 # 튜플로 가능한 문법 (내부 요소값을 바꾸지 않는 행위)
 print(tu[2])
@@ -79,5 +84,8 @@ p.append(17)
 print(p)
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 061baad3a6816d82c307241359bf6a4c01459966

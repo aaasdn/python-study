@@ -11,8 +11,17 @@ points = [88, 99, 56, 92, 100, 78]
 points.remove(92)
 print(points)
 
+<<<<<<< HEAD
 del(points[2]) # == del points[2] 
 print(points)
 
 points.clear()
 print(points)
+=======
+del points[2]
+print(points)
+
+points.clear()
+print(points)
+
+>>>>>>> 061baad3a6816d82c307241359bf6a4c01459966

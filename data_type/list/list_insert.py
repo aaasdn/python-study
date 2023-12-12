@@ -15,5 +15,9 @@ print(nums)
 
 # insert(index, value)
 nums.insert(3, 4)
+<<<<<<< HEAD
 print(nums)
 
+=======
+print(nums)
+>>>>>>> 061baad3a6816d82c307241359bf6a4c01459966

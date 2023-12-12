@@ -11,11 +11,19 @@
 A = {2, 4, 6, 8, 10, 12}
 B = {3, 6, 9, 12, 15}
 
+<<<<<<< HEAD
 print('교집합: ', A & B)
 print('합집합: ', A | B)
 print('차집합(A-B): ', A - B)
 print('차집합(B-a): ', B - A)
 print('배타적 차집합: ', A ^ B)
+=======
+print('교집합:', A & B)
+print('합집합:', A | B)
+print('차집합(A-B):', A - B)
+print('차집합(B-A):', B - A)
+print('배타적 차집합:', A ^ B)
+>>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
 
 C = {4, 8, 12}
 print(C <= A)

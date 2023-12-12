@@ -16,5 +16,8 @@ for c in x:
     print(c)
 
 print('리스트의 길이:', len(x))
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 061baad3a6816d82c307241359bf6a4c01459966
